@@ -4,7 +4,7 @@ body {
     padding: 0;
     background-image: url('./Assets/Faze\ back\ img.jpg'); 
     background-size: cover;
-    color: #fff; /* Set text color to white */
+    color: #fff;
 }
 
 header {
